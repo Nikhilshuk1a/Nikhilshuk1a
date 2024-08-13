@@ -38,7 +38,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 -->
-### **<span style="font-size: 1.3em;font-family:Arial"> 🌐 Connect with Me**
+### **<span style="font-size: 1.7em;font-family:Cambria">🌐 Connect with Me**
 - **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-shukla-0b6743209/)**
 - **[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:nsnikhil1707@gmail.com) :**<span style="font-size: 1.2em;font-family:Arial"> **nsnikhil1707@gmail.com**
 - **[![Phone](https://img.shields.io/badge/-Phone-4CAF50?logo=phone&logoColor=white)](tel:+1234567890) :** **<span style="font-size: 1.1em;font-family:Arial">+91 8698532898**
