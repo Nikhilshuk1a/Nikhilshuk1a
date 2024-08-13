@@ -25,8 +25,7 @@
 - **<span style="font-size: 1.1em;font-family:Arial">Web Servers**: 
   ![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=white) ![HTTPD](https://img.shields.io/badge/-HTTPD-D22128?style=flat&logo=apache&logoColor=white)
    
--  **<span style="font-size: 1.1em;font-family:Arial">Database**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
+-  **<span style="font-size: 1.1em;font-family:Arial">Database**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
   
 <!--- **Service Management Platform**: 
   ![ServiceNow](https://img.shields.io/badge/-ServiceNow-000000?style=flat&logo=servicenow&logoColor=white)-->
