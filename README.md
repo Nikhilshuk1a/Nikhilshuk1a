@@ -54,7 +54,7 @@
 -->
  ### <span style="font-size: 1.1em;font-family:Arial">📂 Projects - 
 - **Project 1**: [DevOps Project: Manage SPOTIFY using TERRAFORM !](https://github.com/Nikhilshuk1a/terraform-spotify-project)
-  - Description: *_In this project, we'll demonstrate how to use Terraform to manage Spotify resources, specifically creating and managing playlists. By integrating Terraform with the Spotify API, we can automate playlist management using code._*
+- **Description :** *_In this project, we'll demonstrate how to use Terraform to manage Spotify resources, specifically creating and managing playlists. By integrating Terraform with the Spotify API, we can automate playlist management using code._*
 <!-- **Project 2**: [AWS Infra with Terraform](https://github.com/)
   - Description: Building the Infrastructure on AWS and deploying Application on Instance with terraform.
 - **Project 4**: [Three Tier deployment On Docker](https://github.com/)
