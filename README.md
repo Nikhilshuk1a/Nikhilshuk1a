@@ -1,6 +1,6 @@
 ## **<span style="font-size: 2em;font-family:Arial;color:#F7CAC9;"> Hello there, I'm Nikhil Shukla 👋**
 
-<span style="font-size: 1.1em;font-family:Arial;color:red">Welcome to my GitHub profile ! I'm a **<span style="font-size: 1.2em;font-family:Arial">Jr DevOps Engineer** (6 Months of experience) working in this Industry having a DevOps and Cloud skills with a strong foundational knowledge in **<span style="font-size: 1.2em;font-family:Arial">Linux, Git, Docker, Kubernetes, Ansible**, applying core **<span style="font-size: 1.2em;font-family:Arial">AWS** services in the area of Compute, Storage and Networking, including **EC2, S3, IAM, VPC** and managing Windows servers in Azure and implementing DevOps best practices while learning new tools and Technologies.
+*__<span style="font-size: 1.5em;font-family:Arial;color:red">Welcome to my GitHub profile ! I'm a **<span style="font-size: 1.2em;font-family:Arial">Jr DevOps Engineer** (6 Months of experience) working in this Industry having a DevOps and Cloud skills with a strong foundational knowledge in **<span style="font-size: 1.2em;font-family:Arial">Linux, Git, Docker, Kubernetes, Ansible**, applying core **<span style="font-size: 1.2em;font-family:Arial">AWS** services in the area of Compute, Storage and Networking, including **EC2, S3, IAM, VPC** and managing Windows servers in Azure and implementing DevOps best practices while learning new tools and Technologies.__*
 
 ### <span style="font-size: 1.7em;font-family:'Cambria';color:khaki">🛠️ My Technical Expertise</span>
 
@@ -53,11 +53,11 @@
 - [Automating Infrastructure with Terraform and Ansible](https://yourblog.com/terraform-ansible)
 -->
  ### <span style="font-size: 1.1em;font-family:Arial">📂 Projects - 
-- **Project 1**: [DevOps Project: Manage SPOTIFY using TERRAFORM !](https://github.com/Nikhilshuk1a/terraform-spotify-project)
-- **Description :** *_In this project, we'll demonstrate how to use Terraform to manage Spotify resources, specifically creating and managing playlists. By integrating Terraform with the Spotify API, we can automate playlist management using code._*
-<!-- **Project 2**: [AWS Infra with Terraform](https://github.com/)
-  - Description: Building the Infrastructure on AWS and deploying Application on Instance with terraform.
-- **Project 4**: [Three Tier deployment On Docker](https://github.com/)
+- **Project 1** : [DevOps Project : Manage SPOTIFY using TERRAFORM !](https://github.com/Nikhilshuk1a/terraform-spotify-project)
+  - **Description :** *__In this project, we'll demonstrate how to use Terraform to manage Spotify resources, specifically creating and managing playlists. By integrating Terraform with the Spotify API, we can automate playlist management using code.__*
+- **Project 2** : [AWS Infra with Python](https://github.com/Nikhilshuk1a/Python_aws_Project)
+  - **Description :** *__Creating and Destroying AWS resources with Python using Boto3 module.__*
+<!--- **Project 4**: [Three Tier deployment On Docker](https://github.com/)
   - Description: Deploying the three tier application on Docker container with Jenkins Pipeline.
 - **Project 4**: [Three Tier deployment On Kubernetes](https://github.com/)
   - Description: Three-Tier Web Application using ReactJS, NodeJS, and MongoDB, with Deployment on AWS EKS. 
