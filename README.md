@@ -1,6 +1,6 @@
 ## **<span style="font-size: 2em;font-family:Arial;color:#F7CAC9;"> Hello there, I'm Nikhil Shukla 👋**
 
-__<span style="font-size: 1.5em;font-family:Arial;color:red">Welcome to my GitHub profile ! I'm a **<span style="font-size: 1.2em;font-family:Arial">Jr DevOps Engineer** (6 Months of experience) working in this Industry having a DevOps and Cloud skills with a strong foundational knowledge in **<span style="font-size: 1.2em;font-family:Arial">Linux, Git, Docker, Kubernetes, Ansible**, applying core **<span style="font-size: 1.2em;font-family:Arial">AWS** services in the area of Compute, Storage and Networking, including **EC2, S3, IAM, VPC** and managing Windows servers in Azure and implementing DevOps best practices while learning new tools and Technologies.__
+_<span style="font-size: 1.5em;font-family:Arial;color:red">Welcome to my GitHub profile ! I'm a **<span style="font-size: 1.2em;font-family:Arial">Jr DevOps Engineer** (6 Months of experience) working in this Industry having a DevOps and Cloud skills with a strong foundational knowledge in **<span style="font-size: 1.2em;font-family:Arial">Linux, Git, Docker, Kubernetes, Ansible**, applying core **<span style="font-size: 1.2em;font-family:Arial">AWS** services in the area of Compute, Storage and Networking, including **EC2, S3, IAM, VPC** and managing Windows servers in Azure and implementing DevOps best practices while learning new tools and Technologies._
 
 ### <span style="font-size: 1.7em;font-family:'Cambria';color:khaki">🛠️ My Technical Expertise</span>
 
